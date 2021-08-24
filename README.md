@@ -15,5 +15,5 @@
 [doi: 10.1109/OMN.2014.6924600](https://ieeexplore.ieee.org/document/6924600).
 
 ### Thesis
-* **Y.-C. Lin**, "Design of Plasmonic Nanotweezers for Highly Efficient Optical Trapping of Nanoparticle," Doctoral Dissertation at National Chiao Tung University, Taiwan, Jul. 2019, 
+* **Y.-C. Lin**, "Design of Plasmonic Nanotweezers for Highly Efficient Optical Trapping of Nanoparticle," _Doctoral Dissertation at National Chiao Tung University, Taiwan_, Jul. 2019, 
 [view the thesis](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/tugsweb.cgi?o=dnctucdr&s=id=%22GT070150507%22.&searchmode=basic).
