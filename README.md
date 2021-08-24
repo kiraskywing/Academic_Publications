@@ -1,5 +1,5 @@
 # Academic Publications
-## Photonics Related:
+## Photonics-Related:
 ### Journals
 * **Y. -C. Lin** and P. -T. Lee, "Efficient Optical Trapping of Nano-Particle via Waveguide-Coupled Hybrid Plasmonic Nano-Taper," in _IEEE Photonics Journal_, vol. 11, no. 3, pp. 1-12, Jun. 2019, Art no. 4801012,
 [doi: 10.1109/JPHOT.2019.2912836](https://ieeexplore.ieee.org/document/8695728).
