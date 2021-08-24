@@ -1,9 +1,9 @@
 # Academic Publications
 ## Photonics Related:
 ### Journals
-* **Y. -C. Lin** and P. -T. Lee, "Efficient Optical Trapping of Nano-Particle via Waveguide-Coupled Hybrid Plasmonic Nano-Taper," in _IEEE Photonics Journal_, vol. 11, no. 3, pp. 1-12, June 2019, Art no. 4801012,
+* **Y. -C. Lin** and P. -T. Lee, "Efficient Optical Trapping of Nano-Particle via Waveguide-Coupled Hybrid Plasmonic Nano-Taper," in _IEEE Photonics Journal_, vol. 11, no. 3, pp. 1-12, Jun. 2019, Art no. 4801012,
 [doi: 10.1109/JPHOT.2019.2912836](https://ieeexplore.ieee.org/document/8695728).
-* **Y. -C. Lin** and P. -T. Lee, "Efficient Optical Trapping and Detection of Nanoparticle Via Plasmonic Bowtie Notch," in _IEEE Photonics Journal_, vol. 11, no. 2, pp. 1-10, April 2019, Art no. 4800610,
+* **Y. -C. Lin** and P. -T. Lee, "Efficient Optical Trapping and Detection of Nanoparticle Via Plasmonic Bowtie Notch," in _IEEE Photonics Journal_, vol. 11, no. 2, pp. 1-10, Apr. 2019, Art no. 4800610,
 [doi: 10.1109/JPHOT.2019.2907273](https://ieeexplore.ieee.org/document/8678801).
 
 ### Conferences
