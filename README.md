@@ -9,8 +9,10 @@
 ### Conferences
 * **Y. -C. Lin** and P. -T. Lee, "Efficient Optical Trapping of Nanoparticle via Plasmonic Bowtie Notch," in _2018 IEEE Photonics Conference_, Sep. 2018, pp. 1-2,
 [doi: 10.1109/IPCon.2018.8527199](https://ieeexplore.ieee.org/document/8527199).
+* W. Tan, **Y. -C. Lin**, and P. -T. Lee, "Study on Plasmonic Bowtie Notch for Nanoparticle Trapping and Sensing," in _Optics & Photonics Taiwan, the International Conference 2017_, Dec. 2017, Paper No. 2017-THU-S0101-O002
 * **Y. -C. Lin** and P. -T. Lee, "Compact Waveguide-Coupled Hybrid Plasmonic Nanotaper for Optical Trapping of Nanoparticles," in _2017 International Conference on Solid State Devices and Materials_, Sep. 2017, G-3-05,
 [doi: 10.7567/SSDM.2017.G-3-05](https://confit.atlas.jp/guide/organizer/ssdm/ssdm2017/subject/G-3-05/detail).
+* C. -Y. Hsu, **Y. -C. Lin**, and P. -T. Lee, "Compact Plasmonic Resonator for Optical Manipulation of Nanoparticles," in _Optics & Photonics Taiwan, the International Conference 2016_, Dec. 2016.
 * P. -T. Lin, **Y. -C. Lin**, H. -Y. Chu, T. -W. Lu and P. -T. Lee, "Trapping nano-sized particle by waveguide-coupled gold bowtie plasmonic tweezers,” in _2014 International Conference on Optical MEMS and Nanophotonics_, Aug. 2014, pp. 75-76,
 [doi: 10.1109/OMN.2014.6924600](https://ieeexplore.ieee.org/document/6924600).
 
