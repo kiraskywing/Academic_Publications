@@ -6,7 +6,7 @@
 * **Y. -C. Lin** and P. -T. Lee, "Efficient Optical Trapping and Detection of Nanoparticle Via Plasmonic Bowtie Notch," in _IEEE Photonics Journal_, vol. 11, no. 2, pp. 1-10, Apr. 2019, Art no. 4800610,
 [doi: 10.1109/JPHOT.2019.2907273](https://ieeexplore.ieee.org/document/8678801).
 
-### International Conferences
+### Conferences
 * **Y. -C. Lin**\* and P. -T. Lee, "Efficient Optical Trapping of Nanoparticle via Plasmonic Bowtie Notch," in _2018 IEEE Photonics Conference_, Sep. 2018, pp. 1-2,
 [doi: 10.1109/IPCon.2018.8527199](https://ieeexplore.ieee.org/document/8527199).
 * W. Tan\*, **Y. -C. Lin**, and P. -T. Lee, "Study on Plasmonic Bowtie Notch for Nanoparticle Trapping and Sensing," in _Optics & Photonics Taiwan, the International Conference 2017_, Dec. 2017, Paper No. 2017-THU-S0101-O002
